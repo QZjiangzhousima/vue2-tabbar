@@ -1,0 +1,17 @@
+{
+  "name": "vue3_cjz",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --open",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "element3": "0.0.28",
+    "vue": "^3.0.4",
+    "vue-router": "^3.4.9"
+  },
+  "devDependencies": {
+    "vite": "^1.0.0-rc.13",
+    "@vue/compiler-sfc": "^3.0.4"
+  }
+}
